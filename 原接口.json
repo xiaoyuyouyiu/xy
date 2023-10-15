@@ -60,19 +60,8 @@
             "quickSearch":1,
             "changeable":1
         },
-        {
-            "key": "csp_AppYsV2_大鹏",
-            "name": "大鹏┃TV",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cms.jialiangos.com/api.php/app/"
-        },
-        {
-            "key": "农民TV",
+        
+           {"key": "农民TV",
             "name": "农民┃影视",
             "type": 3,
             "api": "csp_XBPQ",
