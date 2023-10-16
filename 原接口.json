@@ -13,15 +13,6 @@
 			"quickSearch": 0,
 			"filterable": 0
         },
-        {
-            "key": "豆瓣",
-            "name": "豆瓣┃推荐",
-            "type": 3,
-            "api": "https://jihulab.com/box4220338/xy/-/raw/main/js/apiv53drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://jihulab.com/box4220338/xy/-/raw/main/js/drpy.js"
-        },
         
         {
             "key": "鲲娱七七",
