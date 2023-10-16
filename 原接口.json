@@ -4,7 +4,15 @@
     "spider": "https://jihulab.com/box4220338/xy/-/raw/main/jar/fty1004.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
-      
+      {
+            "key": "豆豆",
+			"name": "豆瓣主页",
+			"type": 3,
+			"api": "csp_DouDou",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 0
+        },
         {
             "key": "豆瓣",
             "name": "豆瓣┃推荐",
